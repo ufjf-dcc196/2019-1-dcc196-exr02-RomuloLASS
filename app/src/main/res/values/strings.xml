@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercicio002</string>
+    <string name="numero_x">X =</string>
+    <string name="numero_y">Y =</string>
+    <string name="button_add">+</string>
+    <string name="button_div">/</string>
+    <string name="button_sub">-</string>
+    <string name="button_mult">*</string>
+    <string name="textview">Resultado</string>
+    <string name="resultado_final">Resultato é:</string>
+</resources>
